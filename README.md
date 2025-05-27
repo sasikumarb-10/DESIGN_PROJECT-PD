@@ -282,9 +282,12 @@ The Liberty files are present in the library path,
 * Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 Step 2 : Creating an SDC File
 Step 3 : Performing Synthesis
+
+
 RTL Simulation:
 
-![Screenshot (240)](https://github.com/user-attachments/assets/70c00b7d-1413-4efb-993e-281effc648e4)
+![image](https://github.com/user-attachments/assets/5026f757-ad54-4df6-8885-289dd68a0bcf)
+
 
 Synthesis RTL Schematic:
 
